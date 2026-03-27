@@ -1,0 +1,96 @@
+{
+  "appointments": [
+    {
+      "id": "1773591663668",
+      "service": "Corte",
+      "name": "pepe",
+      "phone": "3155114960",
+      "datetime": "2026-03-16T11:21",
+      "price": 20000,
+      "createdAt": "2026-03-15T16:21:03.668Z"
+    },
+    {
+      "id": "1773600779961",
+      "service": "Corte + Barba",
+      "name": "eddigar",
+      "phone": "3148664338",
+      "datetime": "2026-03-16T13:52",
+      "price": 30000,
+      "createdAt": "2026-03-15T18:52:59.961Z"
+    },
+    {
+      "id": "1773606353917",
+      "service": "Corte",
+      "name": "polo",
+      "phone": "3155114869",
+      "datetime": "2026-03-16T15:25",
+      "price": 20000
+    },
+    {
+      "id": "1773609500687",
+      "service": "Corte",
+      "name": "papadio",
+      "phone": "3155114960",
+      "datetime": "2026-03-17T16:18",
+      "price": 20000,
+      "createdAt": "2026-03-15T21:18:20.687Z"
+    },
+    {
+      "id": "1773610164540",
+      "service": "Barba Premium",
+      "name": "awdawdwad",
+      "phone": "312341241",
+      "datetime": "2026-03-15T16:29",
+      "price": 25000,
+      "createdAt": "2026-03-15T21:29:24.540Z"
+    },
+    {
+      "id": "1773610250435",
+      "service": "Corte",
+      "name": "repete",
+      "phone": "1634897136",
+      "datetime": "2026-03-20T16:30",
+      "price": 20000,
+      "createdAt": "2026-03-15T21:30:50.435Z"
+    },
+    {
+      "id": "1773610279492",
+      "service": "Barba Premium",
+      "name": "ahihofeahf",
+      "phone": "1304173401",
+      "datetime": "2026-03-16T16:31",
+      "price": 25000,
+      "createdAt": "2026-03-15T21:31:19.492Z"
+    },
+    {
+      "id": "1773612053457",
+      "type": "premium",
+      "service": "Barba",
+      "name": "awdawd",
+      "phone": "1241312441",
+      "datetime": "2026-03-15T17:03",
+      "price": 25000,
+      "createdAt": "2026-03-15T22:00:53.457Z"
+    },
+    {
+      "id": "1773612060721",
+      "type": "basic",
+      "service": "Corte",
+      "name": "adwadafaw",
+      "phone": "12312414",
+      "datetime": "2026-03-17T17:00",
+      "price": 20000,
+      "createdAt": "2026-03-15T22:01:00.721Z"
+    },
+    {
+      "id": "1773857218914",
+      "createdAt": "2026-03-18T18:06:58.914Z",
+      "type": "basic",
+      "service": "Corte",
+      "price": 20000,
+      "name": "anderson",
+      "phone": "3155114960",
+      "datetime": "2026-03-18T13:06"
+    }
+  ]
+}
